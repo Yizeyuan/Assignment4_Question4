@@ -6,3 +6,6 @@ Multiply<-function(x,y){
   x*y
 }
 
+Subtract<-function(x,y){
+  x-y
+}
