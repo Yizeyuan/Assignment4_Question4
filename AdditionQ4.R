@@ -1,5 +1,5 @@
 Addition<-function(x,y){
-  x+y
+  x/y
 }
 
 Multiply<-function(x,y){
@@ -9,3 +9,4 @@ Multiply<-function(x,y){
 Subtract<-function(x,y){
   x-y
 }
+
